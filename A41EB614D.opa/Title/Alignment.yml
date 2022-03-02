@@ -1,0 +1,18 @@
+segment_sources:
+  P135698C4:
+    type: origin_type
+    relation: translation
+    language: sa
+  PA909406C:
+    type: origin_type
+    relation: translation
+    language: zh
+  P3088083F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ff196aad74c641ab94bb2fd1d52aa6cc:
+    P135698C4: aad1922c078d466fbcb1e6317d29689b
+    PA909406C: dde640526ed8475eb51836c6bc2b703d
+    P3088083F: 54cb3b060b0e4e7098893750456343be
